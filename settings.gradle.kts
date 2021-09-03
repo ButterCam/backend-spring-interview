@@ -1,1 +1,1 @@
-rootProject.name = "butter-spring-interview"
+rootProject.name = "backend-spring-interview"
