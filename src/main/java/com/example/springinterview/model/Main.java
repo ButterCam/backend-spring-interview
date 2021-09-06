@@ -1,0 +1,9 @@
+package com.example.springinterview.model;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Zoo zoo = new Zoo();
+        zoo.add();
+    }
+}

@@ -5,4 +5,7 @@ package com.example.springinterview.model;
 //perch 鲈鱼
 public class Zoo {
 
+    public void add() {
+
+    }
 }
